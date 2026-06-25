@@ -1,7 +1,7 @@
 # <p align="center">🚀 Patents Portfolio</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Innovator-Sai%20Prakash-0077b6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Innovator-Manohar-0077b6?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Patents--Filed-03-gold?style=for-the-badge&logo=google-scholar" />
   <img src="https://img.shields.io/badge/Research--Status-Active-brightgreen?style=for-the-badge&logo=micro-soft" />
 </p>
